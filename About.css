@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    height: 0;
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    background-image: url("dummy images/about.jpeg");
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+  
+}
+/*----navbar--*/
+.navbar{
+    border:1px solid rgb(8, 8, 8);
+    border: none;
+    background-color:transparent;
+    overflow: hidden;
+}
+.img1{
+    margin:auto;
+}
+
+.nav-link{
+    font-size: 15px;
+    font-weight: bold;
+   margin-right: 80px;
+    border: 2px solid transparent;
+    opacity: 1;
+    color: gold;
+    font-weight: bolder;
+}
+.nav-link:hover{
+    border-bottom: 5px solid rgb(2, 27, 250);
+    color: white;
+   
+}
+.img2{
+    margin: auto;
+    justify-content: center;
+    border: 1px solid red;
+    border: none;
+width:40%;
+display: block;
+margin-top: 50px;
+}
+.Connecting{
+    color: rgb(12, 12, 12);
+    border: 1px solid black;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    padding: 20px;
+    margin-top: 40px;
+
+}
+.box1{
+    background-color: white;
+    opacity: 0.5;
+    height: 60vh;
+    padding: 10px;
+    margin-top: 50px;
+}
